@@ -1,0 +1,12 @@
+GOAL 1 - Generate a slug for each post
+
+gatsby.md -> gatsby -> /blog/gatsby
+need filename to create endpoint
+https://nodejs.org/dist/latest-v14.x/docs/api/path.html#path_path_basename_path_ext
+
+
+
+GOAL 2 - Generate the blog post page template
+
+GOAL 3 - Generate a new page for each post
+https://www.gatsbyjs.org/docs/node-apis/#createPages
